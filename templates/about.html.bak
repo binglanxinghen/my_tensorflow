@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block title %}
+    云花朵
+{% endblock %}
+
+{% block head %}
+    关于
+{% endblock %}
+
+{% block main %}
+    <div class="col-xs-12 col-sm-8">
+        <i>@版权所有：xxx 地址：XXXXXXXX 联系我们：020-0000000 <br></i>
+        <a href="#" arget="_blank">关于我们</a>
+    </div>
+{% endblock %}

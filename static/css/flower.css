@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* 代码整理：懒人之家 lanrenzhijia.com */
+body {
+	background-color: rgb(220,220,220);
+	/*background-color: #00adee;*/
+	padding: 0;
+	margin: 0;
+	font-size: 16px;
+	font-family: sans-serif;
+}
+.admin-panel {
+	width: 990px;
+	margin: 50px auto;
+}
+/*slidebar侧边栏*/
+		.slidebar {
+	width: 20%;
+	min-height: 690px;
+	float: left;
+	border-right: 1px solid rgb(235,235,235);
+	background-color: rgb(247,247,247);
+}
+.slidebar .logo {
+	height: 145px;
+	border-bottom: 1px solid rgb(235,235,235);
+}
+.slidebar ul {
+	padding: 0;
+	margin:0;
+}
+.slidebar li {
+	list-style-type: none;
+	margin: 0;
+	position: relative;
+}
+.slidebar li a:before {
+	content: "";
+	speak: none;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	position: absolute;
+	display: block;
+	line-height: 40px;
+	color: rgb(102,102,102);
+	right: 20px;
+	-webkit-font-smoothing: antialiased;
+}
+.slidebar ul a {
+	color: rgb(140,140,140);
+	text-decoration: none;
+	font:16px/40px helvetica, verdana, sans-serif;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	border-bottom: 1px solid rgb(235,235,235);
+	display: block;
+	box-shadow:inset 0 1px 0 rgb(255,255,255);
+	text-indent: 20px;
+	text-transform: capitalize;
+}
+.slidebar li:hover a {
+	background-color: rgb(255,255,255);
+	box-shadow: 1px 0 0 rgb(255,255,255), inset 5px 0 0 -1px rgb(234,83,63);
+}
+/*main*/
+.main {
+	float: left;
+	width: 79%;
+	height: 690px;
+	background-color: rgb(255,255,255);
+	position: relative;
+	font-family: helvetica, verdana, sans-serif;
+}
+/*logo*/
+		.logo a {
+			vertical-align: middle;
+	width: 88px;
+	height: 88px;
+	display: inline-block;
+	position: relative;
+	left: 50%;
+	top: 50%;
+	margin: -45px 0 0 -45px;
+	border: 1px solid rgb(200,200,200);
+	border-radius: 50%;
+	background-color: rgb(214,214,214);
+}

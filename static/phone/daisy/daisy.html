@@ -1,0 +1,161 @@
+{% extends 'base.html' %}
+{% block title %}
+    云花朵
+{% endblock %}
+{% block head %}
+    花卉介绍
+
+{% endblock %}
+
+{% block header %}
+<script type="text/javascript" src="{{ url_for('static',filename='css/style.css') }}" xmlns:></script>
+<script type="text/javascript" src="{{ url_for('static',filename='css/responsive.css') }}"></script>
+<link href="{{ url_for('static',filename='css/style.css') }}" rel="stylesheet">
+<link href="{{ url_for('static',filename='css/responsive.css') }}" rel="stylesheet">
+	<link href="../static/css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<link rel="stylesheet" href="../static/css/responsive.css" type="text/css" media="screen">
+{% endblock %}
+
+{% block main %}
+<div class="nav-collapse nav-collapse_ collapse">
+	<ul class="nav sf-menu clearfix sf-js-enabled">
+		<li class="active color-1"><a href="index.html">全部</a></li>
+		<li class="sub-menu color-2"><a href="artists.html">郁金香</a>
+	<ul style="display: none;" class="sub-menu">
+		<li class="sub-menu-1"><a href="artists.html">hhhhhhhhhhh</a>
+	<ul style="display: none;" class="sub-menu">
+		<li><a href="artists.html">Artist 04</a></li>
+		<li><a href="artists.html">Artist 05</a></li>
+		<li><a href="artists.html">Artists 06</a></li>
+	</ul>
+	</li>
+		<li><a href="artists.html">Artist 02</a></li>
+		<li><a href="artists.html">Artist 03</a></li>
+	</ul>
+	</li>
+		<li class="color-3"><a href="blog.html">蒲公英</a></li>
+		<li class="color-4"><a href="favourites.html">雏菊</a></li>
+		<li class="color-5"><a href="index.html">玫瑰</a></li>
+		<li class="color-6"><a href="contact.html">太阳花</a></li>
+	</ul>
+</div>
+<div class="clear"></div>
+
+<div class="clear"></div>
+<div class="main-bg">
+   <div class="container" style="width:933px;height:500px">
+<div class="main-wrp" style="width:933px;height:500px">
+<div class="main-list">
+	<div class="span4">
+		<div class="css3gallery">
+			<img src="{{ url_for('static',filename='phone/daisy/daisy11.jpg') }}" alt="fotograph" title=""  style="width:216px;height:151px;"/>
+		</div>
+	<div class="clear"></div>
+	</div>
+	<div class="span4">
+		<div class="css3gallery">
+			<img src="{{ url_for('static',filename='phone/daisy/daisy12.jpg') }}"  alt="fotograph" title=""  style="width:216px;height:151px;"/>
+
+
+		</div>
+	<div class="clear"></div>
+	</div>
+	<div class="span4">
+		<div class="css3gallery">
+			<img src="{{ url_for('static',filename='phone/daisy/daisy13.jpg') }}"  alt="fotograph" title=""  style="width:216px;height:151px;"/>
+
+		</div>
+	<div class="clear"></div>
+	</div>
+	<div class="span4">
+		<div class="css3gallery">
+			<img src="{{ url_for('static',filename='phone/daisy/daisy14.jpg') }}"  alt="fotograph" title="蒲公英"  style="width:216px;height:151px;"/>
+
+		</div>
+	<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="main-list1">
+	<div class="span4">
+		<div class="css3gallery">
+			<img src="{{ url_for('static',filename='phone/daisy/daisy15.jpg') }}" alt="fotograph" title=""  style="width:216px;height:151px;"/>
+
+		</div>
+	<div class="clear"></div>
+	</div>
+	<div class="span4">
+		<div class="css3gallery">
+			<img src="{{ url_for('static',filename='phone/daisy/daisy16.jpg') }}"  alt="fotograph" title=""  style="width:216px;height:151px;"/>
+
+		</div>
+	<div class="clear"></div>
+	</div>
+	<div class="span4">
+		<div class="css3gallery">
+			<img src="{{ url_for('static',filename='phone/daisy/daisy17.jpg') }}"  alt="fotograph" title=""  style="width:216px;height:151px;"/>
+
+		</div>
+	<div class="clear"></div>
+	</div>
+	<div class="span4">
+		<div class="css3gallery">
+			<img src="{{ url_for('static',filename='phone/daisy/daisy18.jpg') }}"  alt="fotograph" title=""  style="width:216px;height:151px;"/>
+
+		</div>
+	<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="main-list1">
+	<div class="span4">
+		<div class="css3gallery">
+			<img src="{{ url_for('static',filename='phone/daisy/daisy19.jpg') }}" alt="fotograph" title=""  style="width:216px;height:151px;"/>
+
+		</div>
+	<div class="clear"></div>
+	</div>
+	<div class="span4">
+		<div class="css3gallery">
+			<img src="{{ url_for('static',filename='phone/daisy/daisy20.jpg') }}"  alt="fotograph" title=""  style="width:216px;height:151px;"/>
+
+		</div>
+	<div class="clear"></div>
+	</div>
+	<div class="span4">
+		<div class="css3gallery">
+			<img src="{{ url_for('static',filename='phone/daisy/daisy21.jpg') }}"  alt="fotograph" title=""  style="width:216px;height:151px;"/>
+
+		</div>
+	<div class="clear"></div>
+	</div>
+	<div class="span4">
+		<div class="css3gallery">
+			<img src="{{ url_for('static',filename='phone/daisy/daisy22.jpg') }}"  alt="fotograph" title=""  style="width:216px;height:151px;"/>
+
+		</div>
+	<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+<div class="pagination">
+  <ul>
+    <li><a href="{{url_for('rose')}}">玫瑰花</a></li>
+    <li><a href="{{ url_for('dandelion') }}" >蒲公英</a></li>
+    <li><a href="{{ url_for('daisy') }}">雏菊</a></li>
+    <li><a href="{{ url_for('sunflowers') }}">向日葵</a></li>
+    <li><a href="{{ url_for('tulips') }}">郁金香</a></li>
+  </ul>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+
+
+
+{% endblock %}

@@ -1,0 +1,84 @@
+{% import "_macros.html" as macros %}
+{% extends 'base.html' %}
+{% block title %}
+    云花朵
+{% endblock %}
+
+{% block header %}
+<script type="text/javascript" src="{{ url_for('static',filename='../static/js/jquery-1.8.3.min.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static',filename='../static/css/bootstrap-table.css') }}"></script>
+<link href="{{ url_for('static',filename='../static/picture/css/bootstrap-table.css') }}" rel="stylesheet">
+<!--<script>-->
+<!--    $(document).ready(function () {-->
+<!--        $("#table_page").bootstrapTable({-->
+<!--            columns: [{-->
+<!--                field: 'id',-->
+<!--                title: 'Id'-->
+<!--            },{-->
+<!--                field: 'Name',-->
+<!--                title: '名称'-->
+<!--            },{-->
+<!--                field: 'Url',-->
+<!--                title: '网址'-->
+<!--            }]-->
+<!--        })-->
+<!--    })-->
+<!--</script>-->
+{% endblock %}
+
+{% block head %}
+    历史纪录
+{% endblock %}
+
+{% block main %}
+<div style="background-image: url('{{ url_for('static',filename='../static/picture/img5.jpg') }}');background-position: center center;background-repeat: no-repeat;
+background-attachment: fixed;background-size: cover;opacity:0.5;width: 100%;height: 90%;overflow: scroll">
+    <table width="80%" style="margin: 5%" data-pagination="true" data-side-pagination="client" data-page-size="3">
+        <tbody>
+         {% for history in historys %}
+            <tr>
+                <td>
+                    <div style="border: 2px solid #00adee;width: 100%;height:150px;margin-bottom:10px;margin-top:10px;border-radius: 10px;background: white">
+                        <div style="margin: 10px">
+                            <table>
+                                <tr>
+                                    <td>
+                                        <img style="width: 100px;height: 100px;margin: auto" src="{{ url_for('static',filename=history.image_url ,_t=val1) }}">
+                                    </td>
+                                    <td><p style="height: 10px;color: black;display: inline;" align="center">{{ history.time|datetime_format }}</p></td>
+                                    <td><p style="height: 10px;color: black;display: inline">{{ history.result }}</p></td>
+                                    <td><a href="{{ url_for('detail', history_id=history.history_id)}}"><button class="btn btn-info">查看</button></a>
+                                <button class="btn btn-danger">删除</button></td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+<!--        <tr>-->
+<!--            <td><img style="width: 200px;height: 200px" src="{{ url_for('static',filename='img/flower.jpg') }}"></td>-->
+<!--            <td><button>查看</button></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <td><img style="width: 200px;height: 200px" src="{{ url_for('static',filename='img/flower.jpg') }}"></td>-->
+<!--            <td><button>查看</button></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <td><img style="width: 200px;height: 200px" src="{{ url_for('static',filename='img/flower.jpg') }}"></td>-->
+<!--            <td><button>查看</button></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <td><img style="width: 200px;height: 200px" src="{{ url_for('static',filename='img/flower.jpg') }}"></td>-->
+<!--            <td><button>查看</button></td>-->
+<!--        </tr>-->
+    </table>
+    {%if pagination%}
+        <div class="pagination">
+            {{ macros.pagination_widget(pagination, '.history') }}
+        </div>
+    {% endif %}
+</div>
+
+{% endblock %}

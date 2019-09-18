@@ -1,0 +1,5 @@
+sunflowers 0.8815 176 59 317 213
+sunflowers 0.8644 48 77 173 218
+sunflowers 0.8145 196 226 346 345
+sunflowers 0.6297 380 55 452 135
+sunflowers 0.6270 352 88 428 173

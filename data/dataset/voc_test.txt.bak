@@ -1,0 +1,395 @@
+/home/wangjm/yolov3/data/test/JPEGImages/daisy900.jpg 231,109,362,198,0 302,161,475,271,0 260,242,419,316,0 81,129,205,203,0 80,1,228,90,0 1,30,103,128,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy901.jpg 116,60,353,213,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy902.jpg 302,26,449,193,0 400,178,500,247,0 260,226,389,324,0 216,179,333,271,0 107,77,285,279,0 27,95,183,246,0 22,250,219,348,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy904.jpg 171,120,293,212,0 368,182,429,251,0 406,203,474,258,0 417,118,500,185,0 251,79,348,130,0 185,277,310,331,0 34,35,145,97,0 66,223,152,270,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy905.jpg 153,98,309,248,0 292,110,438,265,0 1,62,162,231,0 98,34,258,144,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy906.jpg 84,147,145,202,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy907.jpg 50,176,480,547,0 52,36,317,253,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy908.jpg 169,251,329,397,0 307,271,417,436,0 148,155,291,290,0 151,382,314,491,0 141,510,276,617,0 301,506,432,580,0 318,565,406,646,0 179,608,357,712,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy909.jpg 105,81,244,210,0 93,275,182,354,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy90.jpg 29,27,109,63,0 164,67,203,102,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy910.jpg 201,354,344,471,0 272,291,426,417,0 301,413,460,560,0 140,224,249,295,0 61,304,175,378,0 144,481,235,543,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy911.jpg 136,88,192,146,0 305,62,407,145,0 284,15,379,82,0 228,49,307,129,0 237,115,306,169,0 77,191,149,256,0 56,249,144,318,0 323,288,423,333,0 456,47,500,98,0 116,36,209,94,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy912.jpg 251,87,409,228,0 346,15,494,173,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy913.jpg 113,150,221,202,0 167,226,253,285,0 313,140,405,180,0 325,183,421,224,0 381,117,453,138,0 65,89,163,133,0 81,210,143,245,0 59,258,164,303,0 270,79,331,121,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy914.jpg 288,163,388,213,0 200,211,265,254,0 230,230,293,275,0 207,306,293,349,0 405,259,462,308,0 22,212,79,256,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy915.jpg 76,66,425,390,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy916.jpg 229,13,462,212,0 289,166,490,300,0 18,9,305,262,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy917.jpg 151,155,209,202,0 115,102,165,147,0 395,90,447,137,0 368,212,429,242,0 326,330,387,364,0 146,312,169,334,0 164,383,233,425,0 322,380,382,427,0 430,393,489,442,0 437,270,467,296,0 461,177,500,217,0 35,377,84,427,0 71,343,96,372,0 107,446,152,480,0 325,454,382,496,0 217,142,254,172,0 198,9,261,55,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy918.jpg 286,231,387,342,0 269,500,451,637,0 94,622,290,806,0 1,528,151,724,0 162,526,307,666,0 44,486,187,596,0 257,664,407,810,0 201,171,295,256,0 240,259,318,353,0 368,128,479,253,0 334,34,444,124,0 197,11,303,96,0 99,51,199,158,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy91.jpg 114,64,487,284,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy920.jpg 184,29,261,93,0 268,19,349,73,0 295,102,347,141,0 242,202,316,260,0 144,110,196,147,0 84,204,164,256,0 159,201,217,241,0 312,213,372,254,0 62,10,121,42,0 114,18,177,57,0 48,81,94,113,0 21,141,76,172,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy921.jpg 168,83,330,238,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy922.jpg 161,104,363,303,0 307,50,469,214,0 22,23,219,186,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy923.jpg 89,128,377,356,0 20,175,143,266,0 234,91,320,155,0 380,235,461,315,0 257,421,374,500,0 312,45,384,129,0 6,1,113,133,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy924.jpg 140,56,253,149,0 268,70,428,224,0 36,162,210,292,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy925.jpg 23,42,241,231,0 166,59,384,270,0 375,115,450,187,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy926.jpg 186,69,244,121,0 208,32,258,74,0 284,130,357,195,0 254,243,337,313,0 96,212,158,267,0 61,163,107,204,0 45,74,107,120,0 122,55,189,105,0 37,21,81,63,0 17,234,69,279,0 79,245,146,282,0 2,116,60,172,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy927.jpg 156,43,295,114,0 181,87,315,207,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy928.jpg 164,272,351,406,0 44,343,217,459,0 174,415,332,521,0 297,541,376,642,0 223,541,312,635,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy929.jpg 229,143,390,218,0 183,41,340,125,0 106,211,238,300,0 53,90,162,160,0 438,133,533,218,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy92.jpg 62,112,113,149,0 153,114,225,148,0 113,163,186,199,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy930.jpg 153,137,442,251,0 26,199,261,337,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy931.jpg 187,130,312,237,0 295,179,414,275,0 172,108,270,164,0 37,110,144,169,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy933.jpg 287,126,341,164,0 244,182,325,234,0 152,138,203,180,0 103,138,150,176,0 103,187,161,233,0 74,110,131,150,0 67,65,122,104,0 298,12,374,57,0 430,128,480,200,0 383,254,438,308,0 42,194,88,245,0 207,41,268,89,0 168,66,209,110,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy934.jpg 211,177,240,213,0 265,211,313,253,0 387,197,424,224,0 51,185,73,209,0 236,295,282,335,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy935.jpg 177,98,283,195,0 276,131,351,232,0 289,92,367,153,0 379,147,470,246,0 437,99,500,177,0 338,1,395,73,0 216,28,310,96,0 36,216,164,334,0 103,133,195,220,0 172,200,250,277,0 27,1,130,92,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy936.jpg 54,19,203,174,0 235,69,368,195,0 19,249,165,344,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy937.jpg 167,94,287,214,0 227,180,353,283,0 83,103,221,210,0 2,180,161,299,0 320,211,462,321,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy938.jpg 82,54,321,241,0 253,100,448,196,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy939.jpg 76,18,398,299,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy93.jpg 87,13,255,201,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy940.jpg 77,71,254,256,0 264,237,448,398,0 192,370,360,485,0 126,243,289,379,0 49,483,260,653,0 366,106,490,286,0 213,8,362,86,0 31,332,177,496,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy941.jpg 65,34,456,378,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy942.jpg 53,108,280,362,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy943.jpg 150,56,448,299,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy944.jpg 150,107,389,297,0 357,120,473,214,0 13,14,210,144,0 402,21,500,190,0 1,153,165,373,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy945.jpg 91,161,336,382,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy946.jpg 169,104,282,180,0 129,51,198,118,0 45,220,239,333,0 328,190,436,280,0 30,17,95,81,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy947.jpg 154,135,280,236,0 313,135,406,227,0 406,187,498,264,0 340,244,456,333,0 238,104,336,181,0 141,7,242,74,0 42,176,144,260,0 96,237,178,297,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy948.jpg 108,174,275,334,0 345,77,490,231,0 17,50,165,194,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy949.jpg 116,122,181,163,0 226,189,306,249,0 298,150,381,221,0 250,132,291,168,0 407,154,450,187,0 9,82,43,116,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy94.jpg 103,132,170,173,0 57,198,106,231,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy950.jpg 143,143,212,219,0 152,274,242,368,0 130,400,246,505,0 264,430,381,557,0 373,344,493,451,0 316,193,415,280,0 360,99,460,190,0 64,99,187,200,0 214,350,322,409,0 428,67,477,121,0 277,85,370,145,0 402,1,495,95,0 348,547,495,698,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy951.jpg 136,34,334,170,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy952.jpg 158,50,367,242,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy953.jpg 103,58,314,238,0 257,98,423,291,0 369,68,500,192,0 167,223,314,330,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy954.jpg 90,146,291,312,0 253,108,428,239,0 363,68,458,137,0 84,25,228,115,0 206,12,345,97,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy955.jpg 354,127,468,213,0 1,6,99,87,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy956.jpg 378,143,534,291,0 203,186,323,300,0 249,132,338,190,0 325,59,419,138,0 393,41,505,134,0 292,154,413,270,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy957.jpg 77,111,155,163,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy958.jpg 238,119,328,198,0 260,198,353,279,0 328,172,418,278,0 259,39,385,135,0 234,6,338,74,0 118,4,248,102,0 93,129,221,225,0 181,160,291,279,0 59,60,179,137,0 1,127,82,217,0 26,179,159,292,0 168,272,253,334,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy959.jpg 37,69,319,346,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy95.jpg 78,41,162,113,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy960.jpg 161,74,349,235,0 231,261,338,321,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy961.jpg 47,7,418,377,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy962.jpg 44,24,468,448,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy963.jpg 70,59,242,244,0 256,61,441,237,0 179,210,386,319,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy964.jpg 120,109,237,219,0 167,204,263,267,0 259,155,341,227,0 308,78,423,186,0 63,375,147,447,0 188,321,282,417,0 278,322,367,424,0 26,169,125,274,0 42,1,108,60,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy965.jpg 210,42,338,145,0 256,176,388,274,0 365,147,500,224,0 305,30,426,142,0 54,53,171,169,0 224,1,324,55,0 131,122,242,213,0 1,139,112,249,0 397,52,492,146,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy966.jpg 10,21,487,566,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy967.jpg 262,106,427,282,0 75,64,251,238,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy968.jpg 239,85,431,290,0 74,84,246,233,0 82,197,236,304,0 1,190,80,313,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy969.jpg 72,34,142,107,0 196,55,264,136,0 219,123,289,196,0 275,124,334,195,0 229,239,311,313,0 324,213,380,259,0 319,55,388,107,0 230,9,298,58,0 54,175,123,224,0 78,223,132,264,0 103,261,168,312,0 431,132,476,168,0 437,210,488,261,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy96.jpg 94,39,225,175,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy970.jpg 65,90,244,222,0 292,187,398,291,0 117,217,274,309,0 207,63,286,147,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy971.jpg 131,90,242,156,0 230,116,325,185,0 219,186,321,263,0 147,218,298,316,0 27,200,148,269,0 161,42,252,99,0 368,134,469,199,0 353,321,418,355,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy972.jpg 93,112,315,304,0 17,36,153,157,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy973.jpg 185,92,238,136,0 191,14,284,63,0 279,25,357,88,0 295,91,365,142,0 316,137,377,176,0 339,181,393,207,0 267,183,330,231,0 191,202,237,238,0 98,167,168,209,0 44,193,109,244,0 26,246,69,281,0 256,290,317,320,0 361,267,415,311,0 339,230,389,259,0 418,141,474,186,0 449,239,484,260,0 422,268,486,300,0 115,333,181,366,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy974.jpg 29,77,168,193,0 39,193,190,302,0 112,414,291,641,0 132,338,353,532,0 293,466,443,629,0 290,252,442,383,0 411,144,500,251,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy975.jpg 197,129,226,153,0 244,191,293,232,0 321,202,357,245,0 381,198,410,221,0 312,136,352,177,0 434,106,464,148,0 102,104,135,137,0 105,194,139,221,0 88,230,137,270,0 98,281,145,313,0 37,230,77,262,0 39,177,74,209,0 59,91,92,118,0 307,74,328,92,0 250,52,287,83,0 215,258,251,293,0 285,252,317,288,0 370,244,402,287,0 458,88,488,121,0 375,92,410,112,0 61,163,113,189,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy976.jpg 186,328,404,436,0 212,484,335,579,0 115,255,295,327,0 277,238,416,317,0 14,467,227,597,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy977.jpg 144,72,286,209,0 333,29,462,164,0 240,35,344,140,0 299,148,435,260,0 54,183,185,311,0 137,198,273,333,0 47,54,169,177,0 65,1,190,77,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy978.jpg 288,120,386,199,0 251,194,353,247,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy979.jpg 152,119,360,317,0 39,95,205,194,0 260,63,395,213,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy97.jpg 115,85,202,142,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy980.jpg 172,57,468,285,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy981.jpg 123,164,194,219,0 161,134,244,198,0 176,211,255,269,0 307,180,390,227,0 249,147,310,189,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy982.jpg 108,61,217,141,0 168,153,285,235,0 353,163,474,269,0 285,244,405,351,0 105,263,192,344,0 30,78,84,120,0 49,5,122,46,0 297,40,402,107,0 312,97,403,165,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy983.jpg 170,3,427,192,0 225,144,467,323,0 33,103,239,312,0 52,10,156,90,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy984.jpg 101,43,347,240,0 419,72,500,152,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy985.jpg 19,3,233,165,0 221,80,376,225,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy986.jpg 69,182,494,467,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy987.jpg 228,116,259,145,0 233,171,267,199,0 232,225,268,249,0 298,231,330,254,0 353,271,382,295,0 320,148,352,171,0 38,81,62,111,0 79,102,111,125,0 89,133,116,152,0 84,168,114,190,0 293,61,307,73,0 361,49,398,71,0 373,84,390,106,0 397,128,421,146,0 217,73,257,93,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy988.jpg 157,72,177,93,0 233,212,261,230,0 288,241,317,263,0 352,200,376,216,0 423,116,456,144,0 250,71,285,87,0 86,132,116,149,0 65,157,96,175,0 122,241,145,256,0 284,286,314,306,0 228,288,276,313,0 254,60,273,74,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy989.jpg 128,30,262,177,0 211,101,340,246,0 325,132,447,258,0 77,158,232,277,0 56,86,155,214,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy98.jpg 142,132,277,250,0 263,75,418,175,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy990.jpg 182,93,207,118,0 137,93,175,125,0 203,55,217,71,0 57,55,82,80,0 341,38,363,57,0 324,124,353,150,0 305,169,325,189,0 293,239,314,260,0 224,158,238,178,0 195,150,219,176,0 187,192,207,209,0 132,158,163,189,0 409,79,435,110,0 361,61,390,87,0 375,96,391,118,0 379,139,409,160,0 382,196,403,213,0 160,32,179,46,0 134,40,158,59,0 136,62,157,83,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy991.jpg 187,44,338,243,0 303,10,486,194,0 277,155,488,301,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy992.jpg 91,311,191,376,0 179,327,301,390,0 281,288,384,375,0 202,259,301,333,0 149,267,240,331,0 41,252,127,316,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy993.jpg 179,192,294,255,0 68,211,202,288,0 124,273,236,371,0 164,362,271,450,0 252,307,329,370,0 323,269,461,349,0 42,511,179,598,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy994.jpg 147,154,339,274,0 306,142,481,295,0 19,116,187,249,0 194,63,388,162,0 403,40,488,109,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy995.jpg 121,37,262,169,0 107,192,278,350,0 26,111,142,245,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy996.jpg 123,109,215,187,0 263,123,349,176,0 351,169,450,286,0 265,187,333,257,0 170,83,242,132,0 116,218,194,281,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy997.jpg 113,28,404,279,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy998.jpg 110,80,287,195,0 241,155,348,224,0 113,263,242,355,0 1,125,119,231,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy999.jpg 110,99,203,164,0 161,38,257,123,0 245,30,321,118,0 297,65,380,161,0 137,167,238,259,0 212,213,280,286,0 257,222,326,309,0 286,284,374,377,0 249,362,331,454,0 167,339,274,430,0 100,296,205,382,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy99.jpg 4,60,440,258,0
+/home/wangjm/yolov3/data/test/JPEGImages/daisy9.jpg 8,72,110,150,0 183,114,299,200,0
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion900.jpg 110,95,182,160,1 272,134,344,211,1 142,172,195,246,1 113,11,178,72,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion901.jpg 260,92,447,250,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion902.jpg 86,126,199,225,1 409,71,500,177,1 16,127,99,214,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion903.jpg 60,60,335,297,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion904.jpg 100,80,327,245,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion905.jpg 175,90,265,157,1 407,172,467,242,1 273,5,344,75,1 353,230,407,299,1 250,185,291,220,1 98,218,163,269,1 70,47,149,124,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion907.jpg 196,10,500,307,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion908.jpg 94,149,292,336,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion909.jpg 7,4,483,333,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion90.jpg 89,39,293,213,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion910.jpg 38,148,170,253,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion912.jpg 237,134,381,285,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion913.jpg 51,69,203,213,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion914.jpg 37,139,186,281,1 287,111,500,269,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion915.jpg 103,113,214,185,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion917.jpg 67,87,169,177,1 5,160,117,249,1 142,176,230,259,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion918.jpg 30,492,224,710,1 269,612,361,692,1 446,511,500,594,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion919.jpg 110,22,467,385,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion91.jpg 33,22,286,244,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion920.jpg 89,61,400,229,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion922.jpg 92,24,445,283,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion923.jpg 240,165,395,287,1 177,107,329,200,1 343,102,487,207,1 48,165,187,268,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion924.jpg 64,66,499,374,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion925.jpg 79,104,291,301,1 308,520,451,663,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion926.jpg 70,165,255,398,1 207,215,439,427,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion928.jpg 110,126,188,175,1 20,188,148,285,1 238,199,331,285,1 264,49,296,76,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion930.jpg 100,184,469,515,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion932.jpg 241,19,431,201,1 228,273,433,427,1 1,189,175,328,1 64,33,123,77,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion934.jpg 89,521,427,801,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion936.jpg 30,37,474,479,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion937.jpg 97,171,459,509,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion938.jpg 151,71,389,269,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion939.jpg 208,87,392,216,1 73,226,149,288,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion93.jpg 75,188,154,267,1 200,57,318,96,1 348,88,453,157,1 343,173,436,225,1 181,235,279,294,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion940.jpg 221,54,438,253,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion941.jpg 285,89,417,200,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion942.jpg 153,41,403,276,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion943.jpg 82,87,108,112,1 64,98,84,119,1 136,132,161,154,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion945.jpg 8,7,200,188,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion946.jpg 124,29,420,288,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion947.jpg 24,11,527,294,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion948.jpg 121,108,307,262,1 255,56,433,223,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion949.jpg 67,101,154,184,1 121,39,200,122,1 7,1,94,85,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion94.jpg 123,44,470,318,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion950.jpg 138,55,406,290,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion951.jpg 59,115,156,198,1 138,161,207,239,1 296,168,393,258,1 330,79,491,212,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion952.jpg 234,59,393,227,1 59,160,203,306,1 177,184,292,302,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion953.jpg 30,173,365,511,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion954.jpg 207,85,295,169,1 119,134,232,233,1 317,229,416,326,1 92,78,195,145,1 231,29,337,115,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion955.jpg 110,25,431,273,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion956.jpg 90,59,393,307,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion957.jpg 14,8,89,93,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion958.jpg 175,344,208,369,1 163,361,196,386,1 279,329,321,357,1 18,325,56,353,1 84,377,125,406,1 172,401,222,432,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion959.jpg 103,34,373,313,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion95.jpg 15,6,209,189,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion960.jpg 244,20,475,274,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion961.jpg 18,582,229,771,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion962.jpg 180,100,259,162,1 92,157,165,215,1 121,258,204,297,1 72,70,113,125,1 34,49,97,104,1 186,31,244,85,1 225,71,267,113,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion964.jpg 121,60,453,265,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion965.jpg 22,165,273,375,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion966.jpg 186,99,354,251,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion967.jpg 35,97,214,264,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion968.jpg 77,52,308,258,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion969.jpg 35,11,436,322,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion96.jpg 314,179,362,220,1 271,172,301,200,1 223,170,259,198,1 321,237,353,271,1 194,212,222,228,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion970.jpg 168,100,383,305,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion971.jpg 198,33,429,235,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion972.jpg 68,98,411,368,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion973.jpg 117,132,348,337,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion974.jpg 181,49,460,269,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion975.jpg 58,28,246,204,1 208,66,413,267,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion976.jpg 155,50,441,272,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion977.jpg 224,72,382,235,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion978.jpg 99,26,451,314,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion979.jpg 104,49,377,265,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion97.jpg 1,5,310,239,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion981.jpg 151,42,453,284,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion982.jpg 107,231,248,364,1 204,289,308,380,1 242,360,342,460,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion983.jpg 237,101,397,218,1 328,3,461,104,1 67,205,195,291,1 30,94,115,166,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion984.jpg 180,15,447,276,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion985.jpg 168,45,385,277,1 329,4,500,113,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion986.jpg 41,169,443,334,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion987.jpg 226,42,477,277,1 70,57,275,275,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion988.jpg 165,12,532,292,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion989.jpg 77,96,248,218,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion98.jpg 222,54,414,281,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion990.jpg 163,201,265,294,1 270,253,368,326,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion991.jpg 155,89,500,518,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion992.jpg 1,156,321,485,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion993.jpg 108,49,338,272,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion994.jpg 81,153,200,242,1 224,239,293,304,1 318,64,416,145,1 185,119,252,173,1 131,94,196,150,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion995.jpg 133,65,338,246,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion997.jpg 156,115,351,275,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion998.jpg 147,262,301,446,1 115,442,274,574,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion999.jpg 56,86,336,313,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion99.jpg 115,13,412,242,1
+/home/wangjm/yolov3/data/test/JPEGImages/dandelion9.jpg 8,29,179,238,1
+/home/wangjm/yolov3/data/test/JPEGImages/rose900.jpg 192,82,265,135,2 116,183,176,262,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose903.jpg 118,42,460,338,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose904.jpg 18,191,142,276,2 127,265,233,326,2 173,116,239,167,2 356,250,410,301,2 270,216,320,260,2 386,141,437,184,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose905.jpg 16,20,468,455,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose906.jpg 182,132,307,229,2 164,36,284,126,2 280,21,366,113,2 317,106,403,199,2 316,202,414,291,2 223,233,333,309,2 138,226,224,320,2 46,189,148,282,2 64,100,176,176,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose907.jpg 145,24,332,200,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose908.jpg 30,141,173,294,2 180,140,285,267,2 250,156,413,288,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose909.jpg 203,113,282,174,2 152,138,209,188,2 208,222,276,286,2 129,230,190,280,2 216,306,274,357,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose90.jpg 89,76,271,193,2 32,8,150,104,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose910.jpg 228,79,467,278,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose911.jpg 185,172,334,294,2 323,67,474,231,2 180,60,317,159,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose912.jpg 5,19,472,477,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose914.jpg 33,29,398,284,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose915.jpg 239,196,352,275,2 232,125,337,193,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose916.jpg 339,191,463,290,2 288,248,420,354,2 58,118,203,258,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose917.jpg 20,29,474,442,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose918.jpg 41,161,200,334,2 196,204,326,334,2 325,215,461,345,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose91.jpg 222,65,473,272,2 8,114,254,331,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose920.jpg 181,199,233,247,2 210,256,265,308,2 287,265,343,311,2 125,96,159,120,2 75,35,97,50,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose922.jpg 144,267,431,569,2 30,64,247,255,2 232,79,412,197,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose923.jpg 183,127,251,183,2 234,93,314,152,2 226,164,301,211,2 194,225,268,271,2 267,206,341,273,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose924.jpg 55,13,292,181,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose925.jpg 209,245,259,281,2 325,215,380,262,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose927.jpg 156,107,330,311,2 318,196,485,351,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose928.jpg 52,12,351,233,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose929.jpg 132,37,490,296,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose92.jpg 26,24,471,312,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose930.jpg 166,58,279,146,2 222,116,356,201,2 327,81,437,183,2 352,177,451,270,2 239,183,361,271,2 105,111,220,213,2 125,189,241,272,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose931.jpg 185,105,284,168,2 250,176,332,259,2 346,166,417,227,2 345,230,416,293,2 257,271,359,362,2 166,278,250,348,2 151,170,239,239,2 69,228,167,303,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose935.jpg 151,180,289,319,2 196,309,324,424,2 330,287,424,385,2 103,9,280,112,2 65,250,196,397,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose936.jpg 1,23,501,299,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose937.jpg 321,224,368,265,2 369,239,404,273,2 402,230,437,259,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose938.jpg 58,53,193,163,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose939.jpg 56,36,440,367,2 282,433,493,642,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose93.jpg 108,54,297,203,2 25,51,120,154,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose940.jpg 114,34,398,311,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose941.jpg 19,8,173,178,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose942.jpg 175,137,217,176,2 138,179,172,216,2 104,327,159,373,2 258,266,299,307,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose943.jpg 93,38,238,161,2 286,154,375,243,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose944.jpg 73,138,152,222,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose945.jpg 148,52,393,221,2 43,185,205,317,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose947.jpg 90,99,226,196,2 131,198,227,267,2 62,191,135,262,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose949.jpg 229,87,320,157,2 350,41,433,106,2 400,99,486,166,2 152,164,226,234,2 157,84,230,155,2 191,19,286,70,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose94.jpg 193,77,362,237,2 343,118,500,283,2 129,214,354,334,2 1,46,115,209,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose950.jpg 145,67,257,183,2 287,187,395,280,2 358,89,471,187,2 245,34,359,119,2 22,18,147,130,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose951.jpg 118,126,201,207,2 82,207,149,262,2 148,219,232,288,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose953.jpg 310,78,470,228,2 83,71,178,156,2 54,194,159,289,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose954.jpg 54,226,426,488,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose955.jpg 98,266,405,614,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose957.jpg 94,47,203,131,2 1,201,98,311,2 32,75,101,138,2 198,120,341,189,2 381,107,463,175,2 293,48,357,94,2 364,54,407,82,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose959.jpg 122,44,258,155,2 222,124,342,253,2 76,138,221,258,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose95.jpg 86,45,208,148,2 177,98,301,209,2 171,1,270,96,2 1,110,117,205,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose960.jpg 121,116,179,169,2 149,61,213,118,2 261,102,324,170,2 341,215,403,287,2 215,275,280,335,2 141,330,209,393,2 318,316,383,371,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose961.jpg 266,122,312,160,2 306,234,361,288,2 357,73,398,104,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose962.jpg 82,9,351,189,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose963.jpg 24,87,221,297,2 231,103,434,299,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose965.jpg 171,79,306,235,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose967.jpg 20,91,359,436,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose968.jpg 52,101,284,300,2 272,191,413,323,2 70,321,395,638,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose969.jpg 109,1,497,310,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose970.jpg 39,39,296,289,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose973.jpg 209,20,482,285,2 18,70,220,296,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose974.jpg 199,36,287,90,2 220,83,328,156,2 212,157,321,250,2 98,133,184,192,2 139,67,227,132,2 308,157,379,229,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose975.jpg 67,151,353,406,2 8,419,292,705,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose976.jpg 264,109,382,205,2 387,93,474,188,2 163,186,276,290,2 158,75,259,163,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose977.jpg 176,131,324,248,2 8,256,111,349,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose978.jpg 33,153,156,294,2 344,223,483,330,2 161,110,321,228,2 120,43,270,114,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose97.jpg 34,201,71,239,2 145,181,176,210,2 101,116,128,136,2 11,114,38,137,2 29,52,52,64,2 111,55,132,75,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose981.jpg 186,148,285,228,2 82,136,153,206,2 277,117,359,204,2 371,130,460,208,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose983.jpg 20,1,224,102,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose984.jpg 81,89,100,107,2 148,94,166,112,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose985.jpg 245,71,463,255,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose986.jpg 149,61,362,254,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose987.jpg 177,144,332,293,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose988.jpg 77,69,113,104,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose989.jpg 43,126,245,294,2 115,51,242,148,2 227,81,325,197,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose98.jpg 173,72,373,253,2 108,6,272,119,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose990.jpg 192,90,340,251,2 6,6,137,120,2 208,2,328,88,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose991.jpg 193,289,333,404,2 101,286,197,379,2 160,391,277,520,2 118,507,237,627,2 229,522,363,640,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose992.jpg 81,277,344,486,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose993.jpg 31,139,387,421,2 3,446,146,614,2 295,525,473,662,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose994.jpg 156,90,215,147,2 303,129,408,217,2 157,217,210,271,2 95,266,207,368,2 197,307,272,371,2 274,321,335,389,2 247,403,330,473,2 349,260,411,319,2 399,124,474,186,2 35,96,111,154,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose995.jpg 68,33,394,290,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose997.jpg 122,173,193,246,2 215,164,293,235,2 245,104,337,194,2 137,122,213,177,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose999.jpg 200,40,334,178,2 331,98,480,218,2
+/home/wangjm/yolov3/data/test/JPEGImages/rose9.jpg 99,60,231,183,2 192,29,301,148,2 2,104,120,210,2 1,4,124,109,2 200,111,307,215,2
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers900.jpg 12,48,461,670,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers901.jpg 156,150,262,234,3 110,14,231,118,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers902.jpg 40,64,453,442,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers903.jpg 83,46,268,234,3 192,198,368,311,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers904.jpg 147,17,342,238,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers905.jpg 96,13,451,285,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers906.jpg 169,166,271,258,3 357,164,436,265,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers907.jpg 121,17,239,169,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers908.jpg 130,73,380,312,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers909.jpg 146,72,314,268,3 310,52,489,173,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers90.jpg 146,70,223,149,3 219,10,366,71,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers910.jpg 97,44,389,296,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers911.jpg 245,128,348,232,3 62,229,125,285,3 295,7,373,75,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers912.jpg 174,24,478,346,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers913.jpg 265,144,351,203,3 342,214,433,302,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers914.jpg 114,21,219,126,3 318,106,443,225,3 7,176,70,240,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers916.jpg 148,107,423,300,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers917.jpg 184,53,329,216,3 52,96,175,215,3 197,219,354,349,3 334,97,441,183,3 369,50,442,118,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers919.jpg 68,76,407,511,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers91.jpg 43,72,113,137,3 185,11,226,52,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers921.jpg 52,12,358,368,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers923.jpg 103,198,500,598,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers924.jpg 49,73,427,364,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers926.jpg 28,100,478,574,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers927.jpg 91,305,319,587,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers928.jpg 177,279,273,359,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers929.jpg 235,210,331,332,3 82,224,184,316,3 343,182,408,259,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers92.jpg 66,71,180,183,3 226,102,314,231,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers930.jpg 11,27,479,601,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers932.jpg 93,88,485,417,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers933.jpg 81,551,154,603,3 386,589,457,642,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers934.jpg 47,51,284,272,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers935.jpg 48,152,399,529,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers936.jpg 283,37,352,105,3 486,50,546,112,3 549,30,590,74,3 63,24,121,85,3 134,25,185,75,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers937.jpg 93,105,244,260,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers938.jpg 145,27,380,230,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers939.jpg 75,38,357,311,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers940.jpg 70,34,445,381,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers941.jpg 35,17,397,326,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers942.jpg 149,134,382,331,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers943.jpg 72,79,427,423,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers944.jpg 99,47,432,333,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers945.jpg 75,48,353,265,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers946.jpg 102,47,398,333,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers947.jpg 125,13,269,141,3 4,182,85,276,3 380,114,526,255,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers948.jpg 238,102,356,226,3 165,191,272,296,3 386,112,469,205,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers949.jpg 92,42,433,325,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers950.jpg 165,251,237,300,3 317,273,355,300,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers951.jpg 62,46,244,219,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers952.jpg 49,42,198,177,3 283,101,362,171,3 362,83,468,191,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers953.jpg 180,56,326,195,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers954.jpg 56,5,422,400,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers955.jpg 56,190,195,313,3 119,129,179,180,3 218,112,274,168,3 366,141,454,238,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers956.jpg 27,179,228,361,3 240,41,482,352,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers957.jpg 222,39,468,270,3 121,156,193,224,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers958.jpg 54,341,146,439,3 191,285,316,395,3 249,378,375,473,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers959.jpg 263,56,411,201,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers95.jpg 88,37,219,172,3 6,135,128,288,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers960.jpg 43,36,445,466,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers961.jpg 7,17,137,243,3 41,144,263,312,3 239,172,452,312,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers962.jpg 70,245,137,289,3 230,249,275,287,3 279,238,306,259,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers963.jpg 10,360,89,466,3 94,455,180,526,3 121,421,196,485,3 241,483,298,523,3 369,439,462,504,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers964.jpg 34,49,476,308,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers965.jpg 245,29,345,131,3 108,235,248,356,3 262,210,433,352,3 127,50,283,190,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers966.jpg 85,356,142,408,3 10,338,46,382,3 234,372,293,440,3 318,396,426,488,3 429,358,497,422,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers967.jpg 80,71,490,389,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers968.jpg 38,14,496,458,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers969.jpg 28,26,330,275,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers96.jpg 12,21,164,249,3 218,24,320,150,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers972.jpg 56,47,408,324,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers973.jpg 47,37,163,164,3 283,91,346,162,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers974.jpg 70,26,433,332,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers976.jpg 170,204,283,296,3 404,191,594,300,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers977.jpg 42,41,489,367,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers97.jpg 38,1,301,236,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers980.jpg 116,29,309,286,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers981.jpg 157,355,219,420,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers982.jpg 99,55,370,301,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers983.jpg 27,11,366,354,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers984.jpg 178,46,489,342,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers985.jpg 62,117,269,268,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers986.jpg 190,95,270,177,3 388,22,469,105,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers987.jpg 189,101,433,276,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers988.jpg 37,152,435,597,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers989.jpg 109,26,239,144,3 362,123,500,246,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers98.jpg 36,15,303,240,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers990.jpg 318,133,399,241,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers991.jpg 33,144,132,263,3 290,124,332,175,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers992.jpg 111,130,215,236,3 151,237,264,328,3 239,171,355,257,3 353,146,444,231,3 40,68,157,152,3 138,27,220,102,3 186,85,283,154,3 258,119,339,176,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers993.jpg 271,8,494,281,3 156,154,284,306,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers994.jpg 262,104,421,258,3 141,165,211,231,3 114,116,177,175,3 72,114,125,163,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers995.jpg 6,12,498,354,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers9.jpg 31,38,115,98,3 163,27,234,115,3
+/home/wangjm/yolov3/data/test/JPEGImages/tulips90.jpg 41,179,97,241,4 202,190,277,256,4 213,102,287,165,4 252,45,302,103,4 300,160,403,261,4 356,104,430,159,4
+/home/wangjm/yolov3/data/test/JPEGImages/tulips91.jpg 190,175,234,228,4 295,232,359,277,4 138,260,199,318,4 142,216,187,261,4 132,166,163,201,4 69,181,110,218,4 408,188,462,226,4 362,125,398,153,4 310,125,354,162,4 14,148,56,183,4
+/home/wangjm/yolov3/data/test/JPEGImages/tulips92.jpg 96,91,169,159,4 153,77,206,126,4 174,126,228,167,4 196,163,254,211,4 88,52,137,108,4
+/home/wangjm/yolov3/data/test/JPEGImages/tulips93.jpg 34,6,252,185,4
+/home/wangjm/yolov3/data/test/JPEGImages/tulips94.jpg 50,37,103,109,4 21,81,76,141,4 99,110,156,173,4 212,42,255,101,4 224,95,284,172,4
+/home/wangjm/yolov3/data/test/JPEGImages/tulips95.jpg 36,6,198,173,4 10,138,124,228,4
+/home/wangjm/yolov3/data/test/JPEGImages/tulips96.jpg 98,91,156,190,4 174,69,216,153,4 210,82,289,182,4 284,103,366,198,4 345,109,405,219,4
+/home/wangjm/yolov3/data/test/JPEGImages/tulips97.jpg 75,69,112,98,4 247,36,272,61,4 155,29,181,48,4
+/home/wangjm/yolov3/data/test/JPEGImages/tulips98.jpg 205,89,335,262,4 327,127,471,286,4
+/home/wangjm/yolov3/data/test/JPEGImages/tulips99.jpg 77,70,116,113,4 234,59,285,84,4 68,49,98,71,4 204,44,234,68,4
+/home/wangjm/yolov3/data/test/JPEGImages/tulips9.jpg 45,148,108,218,4 16,99,92,159,4 30,210,105,271,4 202,214,282,276,4

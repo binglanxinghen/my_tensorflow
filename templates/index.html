@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+{% block title %}
+    云花朵
+{% endblock %}
+
+{% block header %}
+{% endblock %}
+
+{% block head %}
+    主页
+{% endblock %}
+
+{% block main %}
+<script type="text/javascript">
+    function click1() {
+        document.getElementById('file1').click();
+    }
+    function click2() {
+        document.getElementById('file2').click();
+    }
+    function change1(){
+        document.getElementById('submit1').click();
+    }
+    function change2(){
+        document.getElementById('submit2').click();
+    }
+</script>
+<!--<h3>主要内容</h3>-->
+<div style="background-image: url('{{ url_for('static',filename='../static/phone/img5.jpg') }}');background-position: center center;background-repeat: no-repeat;
+background-attachment: fixed;background-size: cover;opacity:0.5;width: 100%;height: 90%">
+    <div class="center" style="position: absolute; margin: auto;left: 0; right: 0;top: 0;bottom: 0;width: 70%;height: 50%;">
+        <form action = "{{ url_for('camera') }}" method = "POST" enctype = "multipart/form-data">
+             <div align="center" style="background-image: url('{{ url_for('static',filename='../static/phone/camera.jpg') }}');width: 35%;height: 200px;margin:10%;opacity: 1;border-radius: 20px;
+             background-position: center center;background-repeat: no-repeat;background-size: cover;display: inline-block;float: left">
+    <!--             <img style="width: 200px;height: 200px;margin:20px;opacity: 1;border-radius: 20px" src="{{ url_for('static',filename='img/upload.png') }}">-->
+                 <input id="file1" name="file1" type="file" style="left: 0;top: 0;width: 100%;height: 100%;opacity: 0;cursor: pointer;" accept="image/*" capture="camera" onchange="change1()">
+                 <button style="margin-top: 10px" onclick="click1()" class="btn btn-info">拍照上传</button>
+             </div>
+                 <input id="submit1" type = "submit" style="display: none;"/>
+        </form>
+        <form action = "{{ url_for('upload') }}" method = "POST" enctype = "multipart/form-data">
+             <div  align="center" style="background-image: url('{{ url_for('static',filename='../static/picture/upload.png') }}');width: 35%;height: 200px;margin-top:10%;opacity: 1;border-radius: 20px;
+            background-position: center center;background-repeat: no-repeat;background-size: cover;display: inline-block;">
+                 <input id="file2" name="file2" type="file" style="left: 0;top: 0;width: 100%;height: 100%;opacity: 0;cursor: pointer;" onchange="change2()">
+                 <button style="margin-top: 10px" onclick="click2()" class="btn btn-info text-center">选择文件</button>
+             </div>
+                 <input id="submit2" type = "submit" style="display: none"/>
+        </form>
+    </div>
+</div>
+
+
+{% endblock %}

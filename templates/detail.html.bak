@@ -1,0 +1,52 @@
+{% extends 'base.html' %}
+{% block title %}
+    云花朵
+{% endblock %}
+
+{% block head %}
+    结果报告
+{% endblock %}
+
+{% block main %}
+{% if history %}
+<div align="center" style="position: absolute; margin: auto;left: 0; right: 0;top: 0;bottom: 0;width: 300px;height: 500px;">
+<!--    {{history.history_id}}-->
+<!--    {{history.image_url}}-->
+<!--    <img style="width: 300px;height: 300px" src="{{ url_for('static',filename='uploads/2/201908312331232rose11.jpg') }}">-->
+<!--        <img style="width: 300px;height: 300px" src="D:/Pycharm/flower_yolov3/static/uploads/2/201908312331232rose11.jpg">-->
+    <img style="max-width:300px;width: 100%;height: auto" src="{{ url_for('static',filename=image_url ,_t=val1) }}">
+    <p class="text-center" style="color: black">{{history.time|datetime_format}}</p>
+    <div style="border: #eeeeee;width: auto;height: auto" class="text-center">
+        <textarea disabled id="text1" class="xplay"  rows="5" cols="30" style="color:black" >{{history.result}}</textarea>
+    </div>
+    <a href="{{ url_for('download', history_id=history.history_id)}}"><button class="btn btn-info">下载</button></a>
+</div>
+<script>
+    var mess = document.getElementById('text1').value;
+</script>
+{% else %}
+<div align="center" style="position: absolute; margin: auto;left: 0; right: 0;top: 0;bottom: 0;width: 300px;height: 500px;">
+<!--    {{history.history_id}}-->
+<!--    {{history.image_url}}-->
+<!--    <img style="width: 300px;height: 300px" src="{{ url_for('static',filename='uploads/2/201908312331232rose11.jpg') }}">-->
+<!--        <img style="width: 300px;height: 300px" src="D:/Pycharm/flower_yolov3/static/uploads/2/201908312331232rose11.jpg">-->
+    <img style="max-width:300px;width: 100%;height: auto" src="{{ url_for('static',filename=image_url,_t=val1) }}">
+    <p class="text-center" style="color: black">{{time|datetime_format}}</p>
+    <div style="border: #eeeeee;width: auto;height: auto" class="text-center">
+        <textarea disabled id="text2" class="xplay"  rows="5" cols="30" style="color:black" >{{result}}</textarea>
+    </div>
+<!--    <a href="{{ url_for('download', history_id=history.history_id)}}"><button class="btn btn-info">下载</button></a>-->
+</div>
+<script>
+    var mess = document.getElementById('text2').value;
+</script>
+{% endif %}
+<script>
+        var msg = new SpeechSynthesisUtterance(mess);
+        msg.volume = 100;
+        msg.rate = 1;
+        msg.pitch = 1.5;
+        console.log(msg);
+        window.speechSynthesis.speak(msg);
+</script>
+{% endblock %}

@@ -1,0 +1,65 @@
+{% extends 'base.html' %}
+{% block title %}
+    云花朵
+{% endblock %}
+{% block head %}
+    花卉介绍
+
+{% endblock %}
+
+{% block header %}
+<script type="text/javascript" src="{{ url_for('static',filename='./static/css/style.css') }}" xmlns:></script>
+<script type="text/javascript" src="{{ url_for('static',filename='./static/css/responsive.css') }}"></script>
+<link href="{{ url_for('static',filename='css/style.css') }}" rel="stylesheet">
+<link href="{{ url_for('static',filename='css/responsive.css') }}" rel="stylesheet">
+	<link href="../static/css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<link rel="stylesheet" href="../static/css/responsive.css" type="text/css" media="screen">
+{% endblock %}
+
+{% block main %}
+<div class="clear"></div>
+
+<div class="clear"></div>
+<div class="main-bg">
+   <div class="container" style="width:980px;height:580px">
+		<div class="main-wrp" style="width:933px;height:500px">
+			<div class="main-list">
+				<div class="pagination">
+ 	 				<ul>
+   			 			<li><a href="{{ url_for('introduct') }}">玫瑰花</a></li>
+   			 		    <!--<li><a href="{{ url_for('dandelion') }}" >蒲公英</a></li>
+   			 			<li><a href="{{ url_for('daisy') }}">雏菊</a></li>
+    		 			<li><a href="{{ url_for('sunflowers') }}">向日葵</a></li>
+    		 			<li><a href="{{ url_for('tulips') }}">郁金香</a></li>-->
+					</ul>
+				</div>
+
+				<div class="span4">
+				<div class="css3gallery">
+					<img src="{{ url_for('static',filename='phone/dy1.jpg') }}" alt="fotograph" title="" />
+				<div style="text-align:center" class="text 1-1" >雏菊</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="span4">
+			<div class="css3gallery">
+				<img src="{{ url_for('static',filename='phone/dy2.jpg') }}"  alt="fotograph" title="" />
+					<div style="text-align:center" class="text 1-2" >雏菊</div>
+
+			</div>
+		<div class="clear"></div>
+	</div>
+	<div class="span4">
+		<div class="css3gallery">
+			<img src="{{ url_for('static',filename='phone/dy3.jpg') }}"  alt="fotograph" title="" />
+				<div style="text-align:center" class="text 1-3" >雏菊</div>
+		</div>
+	    <div class="clear"></div>
+	</div>
+
+</div>
+
+
+
+
+{% endblock %}

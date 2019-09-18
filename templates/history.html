@@ -1,0 +1,54 @@
+{% import "_macros.html" as macros %}
+{% extends 'base.html' %}
+{% block title %}
+    云花朵
+{% endblock %}
+
+{% block header %}
+<script type="text/javascript" src="{{ url_for('static',filename='js/jquery-1.8.3.min.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static',filename='css/bootstrap-table.css') }}"></script>
+<link href="{{ url_for('static',filename='css/bootstrap-table.css') }}" rel="stylesheet">
+{% endblock %}
+
+{% block head %}
+    历史纪录
+{% endblock %}
+
+{% block main %}
+<div style="background-image: url('{{ url_for('static',filename='img/img5.jpg') }}');background-position: center center;background-repeat: no-repeat;
+background-attachment: fixed;background-size: cover;opacity:0.5;width: 100%;height: 90%;overflow: scroll">
+    <table width="80%" style="margin: 5%;margin-bottom: 10px" data-pagination="true" data-side-pagination="client" data-page-size="3">
+        <tbody>
+         {% for history in historys %}
+            <tr align="center">
+                <td>
+                    <div style="border: 2px solid #00adee;width: 100%;height:150px;margin-bottom:10px;margin-top:10px;border-radius: 10px;background: white">
+                        <div style="margin: 10px">
+                            <table width="100%">
+                                <tr align="center">
+                                    <td>
+                                        <img style="width: 100px;height: 100px;margin: auto" src="{{ url_for('static',filename=base_url + history.file_name) }}">
+                                    </td>
+                                    <td><p style="height: 10px;color: black;display: inline;" align="center">{{ history.time|datetime_format }}</p></td>
+                                    <td><p style="height: 10px;color: black;display: inline">{{ history.result }}</p></td>
+                                    <td>
+                                        <a href="{{ url_for('detail', history_id=history.history_id)}}"><button class="btn btn-info">查看</button></a>
+                                        <a href="{{ url_for('del_history', history_id=history.history_id)}}"><button  class="btn btn-danger">删除</button></a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    {% if pagination %}
+        <div class="pagination" style="float:right;margin-right:20px">
+            {{ macros.pagination_widget(pagination, '.history') }}
+        </div>
+    {% endif %}
+</div>
+
+{% endblock %}

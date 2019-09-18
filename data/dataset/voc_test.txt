@@ -1,0 +1,2 @@
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers900.jpg 12,48,461,670,3
+/home/wangjm/yolov3/data/test/JPEGImages/sunflowers917.jpg 184,53,329,216,3 52,96,175,215,3 197,219,354,349,3 334,97,441,183,3 369,50,442,118,3

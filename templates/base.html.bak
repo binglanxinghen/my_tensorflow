@@ -1,0 +1,93 @@
+<!--<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">-->
+<!--<html xmlns="http://www.w3.org/1999/xhtml">-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  	<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+  	<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+  	<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	<title>
+		{% block title %}
+    	{% endblock %}
+	</title>
+	{% block header %}
+	{% endblock %}
+	<link href="{{ url_for('static',filename='css/flower.css') }}" type="text/css" rel="stylesheet">
+
+	<style type="text/css">
+		.head{
+			width: 80px;
+			height: 80px;
+			border: 3px solid white;
+			border-radius: 50%;
+			overflow: hidden;
+			position: absolute;
+			margin: auto;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			top: 0;
+		}
+		h2 {
+	margin:1em 30px;
+	color: rgb(234,83,63);
+	font-size: 20px;
+}
+h2:before {
+	font-family: 'icomoon';
+	content: attr(data-icon);
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	margin-right: 10px;
+	-webkit-font-smoothing: antialiased;
+}
+
+	</style>
+
+</head>
+<body>
+<div class="page">
+
+		<section class="demo">
+			<div class="admin-panel clearfix" style="width:1200px;height:900px;">
+				<div class="slidebar">
+					<div class="logo">
+<!--						<a href=""><img src="head.jpeg" class="head" alt=""/></a>-->
+						<a href="{{ url_for('login') }}"><img src="{{ url_for('static',filename='img/head.jpeg') }}" class="head" alt=""/></a>
+					</div>
+                    {% if not session.get('id')%}
+                    <a href="{{url_for('login')}}">未登录</a>
+                    {% else %}
+                    <p>{{session.get('user')}}<a href="{{url_for('logout')}}"><span>退出</span></a></p>
+                    {% endif %}
+					<ul>
+						<li><a href="{{ url_for('index') }}">主页</a></li>
+						<li><a href="{{ url_for('introduct') }}">花卉介绍</a></li>
+						<li><a href="{{ url_for('history') }}">历史纪录</a></li>
+						<li><a href="{{ url_for('about') }}">关于</a></li>
+					</ul>
+				</div>
+
+				<div class="main">
+
+					<h2>
+						{% block head %}
+						{% endblock %}
+					</h2>
+
+					{% block main %}
+					{% endblock %}
+
+				</div>
+			</div>
+		</section>
+
+	</div>
+
+</body>
+</html>

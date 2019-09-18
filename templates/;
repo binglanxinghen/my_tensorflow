@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+    <script type="text/javascript" src="../static/js/jquery-1.3.2.min.js"></script>
+<script type=text/javascript>
+$(function(){
+	$('#mobanwang_com li').hover(function(){
+		$(this).children('ul').stop(true,true).show('slow');
+	},function(){
+		$(this).children('ul').stop(true,true).hide('slow');
+	});
+
+	$('#mobanwang_com li').hover(function(){
+		$(this).children('div').stop(true,true).show('slow');
+	},function(){
+		$(this).children('div').stop(true,true).hide('slow');
+	});
+});
+</script>
+<style type="text/css">
+    .a-upload {
+        padding: 4px 10px;
+        height: 20px;
+        line-height: 20px;
+        position: relative;
+        cursor: pointer;
+	    color: #d9eef7;
+        background: #0095cd;
+        background: -webkit-gradient(linear, left top, left bottom, from(#00adee), to(#0078a5));
+        background: -moz-linear-gradient(top,  #00adee,  #0078a5);
+        filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#00adee', endColorstr='#0078a5');
+	    border: solid 1px #0076a3;
+        border-radius: 4px;
+        overflow: hidden;
+        display: inline-block;
+        *display: inline;
+        *zoom: 1}
+    body{ 	font-family:Arial, Verdana, Helvetica, sans-serif;
+	font-family:"雅黑宋体", "微软雅黑", "新宋体", "宋体";
+	font-size:1em;
+	font-size:17px;
+	color:#FFF;	text-align:center;}
+    .a-upload  input {
+        position: absolute;
+        font-size: 100px;
+        right: 0;    top: 0;
+        opacity: 0;
+        filter: alpha(opacity=0);
+        cursor: pointer}
+    .a-upload:hover {
+        color: #444;
+        background: #eee;
+        border-color: #ccc;
+        text-decoration: none}
+     a{	color:#FFF;text-decoration:none}
+    ul {
+	list-style:none;
+}
+#mobanwang_com {
+	height:37px;
+	background:#333;
+	font-size:1.3em;
+	text-align:center;
+}
+#mobanwang_com a {
+	font-size:0.65em;
+}
+#mobanwang_com li ul {
+	display:none;
+}
+#mobanwang_com li ul li {
+	float:none;
+}
+*html #mobanwang_com li ul li {
+	display:inline;
+}
+#mobanwang_com li ul a {
+	float:none;
+	height:32px;
+	line-height:32px;
+	padding:0 10px;
+	text-transform:capitalize;
+}
+#mobanwang_com {
+	line-height:15px;
+	padding:5px 10px;
+}
+.second-menu{
+	position:absolute;
+}
+.first-menu li {
+	float:left;
+	position:relative;
+}
+.first-menu a {
+	float:left;
+	display:block;
+	padding:0 20px;
+	height:35px;
+	line-height:35px;
+	background:#333;
+	border-top:1px solid #4a4a4a;
+	border-left:1px solid #4a4a4a;
+	border-bottom:1px solid #242424;
+	border-right:1px solid #242424;
+	font-size:.7em;
+}
+.first-menu a:hover {
+	background:#4698ca;
+	border-top:1px solid #5db1e0;
+	border-left:1px solid #5db1e0;
+}
+.second-menu {
+	top:37px;
+	right:0;
+}
+*html .second-menu {
+	right:-1px;
+}
+.second-menu a {
+	font-size:11px;
+}
+#subMusic {
+	width:177px;
+}
+</style>
+
+<script>
+        //	var picNum=0;
+        // function remove(preview){
+        //     var file = document.getElementById('file');
+        //     file.value='';
+        //     var view=document.getElementById(preview);
+        //     view.innerHTML='';
+        // }
+        function change(file,preview){
+            var view=document.getElementById(preview);
+            if (file.files && file.files[0]){
+                view.innerHTML ='';
+                files=file.files;
+                for (var i = 0; i < files.length; i++) {
+                    var reader = new FileReader();
+                    reader.readAsDataURL(files[i]);
+                    reader.onload = function(e) {
+                        //添加 img
+                        var img = document.createElement("img");
+                        img.setAttribute("id", "newImg");
+                        img.setAttribute("width", "150");
+                        img.setAttribute("height", "150");
+                        img.setAttribute("class", "img_style");
+                        img.src =  this.result;
+                        view.appendChild(img);
+                    };
+                }
+            }
+        }
+    </script>
+</head>
+<body>
+<ul id="mobanwang_com" class="first-menu">
+  <li><a href="index.html" style="color:#ff0; background:none; border:none;" target="_self">智能识别花朵</a></li>
+  <li><a href="#" target="_self">首页</a>
+    <ul style="display: none;" id="subMusic" class="second-menu">
+      <li><a href="daisy.html" class="mobanwang" target="_self">雏菊</a>
+      </li>
+      <li><a href="dandelion.html" class="mobanwang" target="_self">蒲公英</a>
+      </li>
+      <li><a href="rose.html" class="mobanwang" target="_self">玫瑰花</a>
+      </li>
+      <li><a href="sunflowers.html" class="mobanwang" target="_self">太阳花</a>
+      </li>
+      <li><a href="tulips.html" class="mobanwang" target="_self">郁金香</a>
+      </li>
+    </ul>
+  </li>
+  <li><a href="http://121.199.22.227/" target="_self">预测花朵</a>
+  </li>
+</ul>
+<!--"01.jpeg <img src="02.jpg" width="300" height="300"/>   E:/tesorflow/flower_photos/图片/daisy/daisy5.jpg"-->
+<form action="/forecast" method="post" enctype="multipart/form-data">
+    <p align="center">
+        <div id="preview"><img src="{{ url_for('static', filename=jpng ,_t=val1) }}" width="300" height="300"/></div>
+    </p>
+    <p align="center">
+        <a href="javascript:;" class="a-upload">
+            <input type="file" name="img_file" id="img_file" onchange="change(this,'preview')">选择图片
+        </a>
+    </p>
+     <p align="center" class="a-upload">
+        <input type="submit" name="bt" value="预测图片">预测图片
+    </p>
+<!--    <p>-->
+<!--            <label>选择播报语言：</label>-->
+            <select hidden id="voiceSelect" onchange="play()">
+                <option value="1"> 1</option>
+                <option value="2"> 3</option>
+            </select>
+        </p>
+</form>
+<div>
+    {% if result %}
+    <!--<p>dada</p>-->
+    <script>
+        window.onload=function(){
+
+  play();
+
+  }</script>
+    {% endif %}
+    <p>
+       <textarea disabled id="text" class="_play" rows="5" cols="30">{{ result }}</textarea>
+    </p>
+</div>
+</body>
+    <script>
+		if(!('speechSynthesis' in window)) {
+			throw alert("对不起，您的浏览器不支持")
+		}
+		// var val = document.getElementById("text");
+		// val.addEventListener("input", function(e) {
+        //     var t = this.value;
+        //     play();
+        //     // if (t.length &gt; 10) {
+        //     //     e.returnValue = false;
+        //     // }
+        //     // tar.innerText = (50 - t.length);
+        // })
+		var _play = document.querySelector("._play"),
+			to_speak = window.speechSynthesis,
+			dataName, voiceSelect = document.querySelector("#voiceSelect"),
+			voices = [];
+
+		function play() {
+			cancel();
+			voices = speechSynthesis.getVoices();
+			to_speak = new SpeechSynthesisUtterance(_play.value);
+			//to_speak.rate = 1.4;// 设置播放语速，范围：0.1 - 10之间
+			var selectedOption = voiceSelect.selectedOptions[0].getAttribute('data-name');
+			to_speak.voice=voices[0]
+			window.speechSynthesis.speak(to_speak);
+
+		}
+		function cancel() {
+			window.speechSynthesis.cancel();
+		}
+		// setTimeout(function() {
+		// 	populateVoiceList();
+		// }, 0)
+	</script>
+</html>
